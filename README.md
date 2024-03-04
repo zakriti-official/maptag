@@ -1,0 +1,2 @@
+### Todos
+- [ ] RLS on supabase
