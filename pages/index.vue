@@ -5,12 +5,12 @@
     </div>
     <div class="gap-4 flex flex-col ">
       <h1 class="text-4xl leading-tight font-bold text-black">
-        We are here from <span class="text-white">Zakriti</span>
+        Explore the world with <span class="text-white">Maptag </span>
       </h1>
       <p class="text-black/70 font-semibold">
-        consectetur adipisicing elit. Molestiae tenetur sequi nam, libero
-        consectetur necessitatibus optio praesentium! Aut, nostrum cupiditate?
-        Recusandae delectus natus debitis sint magni modi eos sunt minima?
+        
+        
+        We're a team of enthusiastic and young minds from Zakriti, dedicated to building user-valuable products. 
       </p>
       <button
         class="mt-3 p-3 rounded-full font-semibold text-xl border-2 border-[#6C63FF]"
